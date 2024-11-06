@@ -1,5 +1,5 @@
-const Subcriptions = () => {
-    return ( <h1>Subscriptions page</h1> );
-}
- 
-export default Subcriptions;
+const SubcriptionsPage = () => {
+  return <h1>Subscriptions page</h1>;
+};
+
+export default SubcriptionsPage;
